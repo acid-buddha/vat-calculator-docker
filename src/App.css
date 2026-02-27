@@ -8,11 +8,18 @@
   padding: 10px;
 }
 
-.header{
+.header {
   padding: 10px;
+  display: flex;
+  flex-direction: column;
 }
 
 body{
   padding: 10px;
   background-color: lightcyan;
+}
+
+.colour-border {
+  justify-content: center;
+  flex-direction: column;
 }
