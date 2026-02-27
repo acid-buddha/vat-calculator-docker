@@ -1,0 +1,2 @@
+image: aguzinski/vat:<+pipeline.sequenceId>
+replicas: 1
